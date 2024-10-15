@@ -1,0 +1,44 @@
+- company: Publicis Sapient
+  roles:
+    - role: Associate Product Manager
+      details: |
+        Drove product initiatives in automotive sector, serving 14 brands across EMEA and North America, contributing to $3M revenue.
+        Launched MVP to 4,500+ auto dealers, driving $1M+ in new revenue and increasing client retention by 25% through targeted marketing campaigns.
+        Orchestrated collaboration among development, UX, legal, and technical teams across 8 brands, driving successful outcomes in 11 high-profile client projects.
+        Championed Agile methodologies across 5 product teams totaling 100+ members, resulting in a 20% increase in development efficiency and a 33% improvement in delivery time.
+        Elevated stakeholder satisfaction from 60% to 95% by implementing a stakeholder segmentation matrix, creating customized communication plans, and establishing regular feedback mechanisms.
+      date: February 2021 - July 2023
+
+- company: Publicis Sapient
+  page: 1
+  roles: 
+    - role: Associate Technology
+      tools: Power BI, JIRA, Confluence
+      details: |
+        Strategic product developments across fintech, automotive, telecom sectors, serving 4 clients, 10 brands with teams across North America.
+        Managed the creation of 50+ Functional Specification Documents, effectively capturing, translating stakeholder requirements into actionable development guidelines.
+        Streamlined product backlog management by crafting detailed user stories and epics, and applying RICE and WSJF frameworks, boosting development efficiency by 30% and reducing delivery time by 25%.
+        Developed a Power BI analytics dashboard for component usage across 8 brands, streamlining prioritization, reducing manual testing time by 33% for the quality assurance team.
+        Performed competitive analysis across 5 platforms, identifying key feature gaps. Delivered recommendations that led to the development of 3 new features, enhancing product adoption by 15% and closing competitive gaps.
+      date: July 2018 - January 2021
+
+- company: Deep Target NLP Research Lab
+  page: 2
+  roles:
+    - role: Graduate Research Assistant
+      tools: Python, AWS EC2, spaCy
+      details: |
+        Orchestrated the development of a healthcare application on AWS EC2, integrating Machine Learning Models, adopted by 100+ healthcare professionals and improving decision-making efficiency by 25%.
+        Conducted a comparison of human and ChatGPT simplified texts, using 14 metrics, enhancing healthcare text comprehension by 25%.
+        Engineered Python scripts using spaCy, automating text preprocessing and extracting 30+ NLP statistics, resulting in 40% faster data processing.
+      date: January 2024 - Present
+
+- company: Eller College of Management
+  page: 2
+  roles:
+    - role: Business Consulting
+      details: |
+        Led a comprehensive study on navigating disruptions in the automobile dealership landscape, conducting 400+ hours of research and 15+ voice of customer interviews with industry professionals.
+        Evaluated pathways based on customer value, investment level, rewards, and threats, considering macro industry changes, competitive responses, and market dynamics.
+        Designed two strategic pathways (Conservative and Transformative) with three-year implementation plans for dealerships to transition to a desired future state.
+      date: January 2024 - May 2024

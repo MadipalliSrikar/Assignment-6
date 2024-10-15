@@ -1,0 +1,26 @@
+# Previous content remains the same
+
+projects:
+- title: "Automobile Dealership Disruption Analysis"
+  subtitle: "Eller College of Management, University of Arizona"
+  date: "2024"
+  details: |
+    Led a comprehensive study on navigating disruptions in the automobile dealership landscape.
+    Conducted 400+ hours of research and 15+ voice of customer interviews with industry professionals.
+    Designed two strategic pathways (Conservative and Transformative) with three-year implementation plans.
+
+- title: "Power BI Analytics Dashboard for Component Usage"
+  subtitle: "Publicis Sapient"
+  date: "2018-2021"
+  details: |
+    Developed a Power BI analytics dashboard for component usage across 8 brands.
+    Streamlined prioritization and reduced manual testing time by 33% for the quality assurance team.
+    Enhanced data-driven decision making in product development processes.
+
+links:
+  - title: LinkedIn Profile
+    url: https://www.linkedin.com/in/srikarmadipalli96/
+    icon: fab fa-linkedin
+  - title: Portfolio
+    url: https://madipallisrikar.github.io/Srikar/
+    icon: fas fa-globe
